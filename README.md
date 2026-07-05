@@ -32,6 +32,7 @@ This project is split into two independent USB HID devices.
 * Push Buttons
 * Rotary Encoders
 * Toggle Switches
+<img width="1744" height="856" alt="Circuit_Diagram" src="https://github.com/user-attachments/assets/6f39965e-1f2d-42e0-a2ff-d1cae579b441" />
 
 ## Software
 
