@@ -30,11 +30,11 @@ This project is split into two independent USB HID devices.
 * 775 DC Motor
 * BTS7960 (IBT-2) Motor Driver
 * Quadrature Encoder
-* 3 × Pedal Potentiometers
+* 6 × Pedal Potentiometers
 * 16×2 LCD
 * Push Buttons
 * Rotary Encoders
-* Toggle Switches
+* Limit Switches
 
 ## Software
 
