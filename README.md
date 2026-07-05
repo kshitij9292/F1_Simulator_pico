@@ -18,7 +18,8 @@ This project is split into two independent USB HID devices.
 
 * Push buttons
 * Rotary encoders
-* Toggle switches
+* Limit switches
+* potentiometer as position switch
 * 16×2 LCD
 * USB HID Game Controller
 <img width="1438" height="851" alt="wheel" src="https://github.com/user-attachments/assets/782866e9-46de-47dd-8c6c-0545cb7d1501" />
